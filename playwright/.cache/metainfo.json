@@ -1,0 +1,51 @@
+{
+  "version": 6,
+  "registerSourceHash": "c4086b458b22d0eb2556ed247d041b7c372db9f9",
+  "components": [
+    {
+      "fullName": "_Users_jobayerhossain_Documents__repo_production_ready_svelteKit_src_components_Counter_svelte",
+      "importPath": "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/src/components/Counter.svelte",
+      "isModuleOrAlias": false
+    }
+  ],
+  "tests": {
+    "/Users/jobayerhossain/Documents/@repo/svelte-component-test-demo/tests/component/Counter.test.ts": {
+      "timestamp": 1684995554711.0747,
+      "components": [
+        "_lib_Counter_svelte"
+      ]
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/tests/component/Counter.test.ts": {
+      "timestamp": 1684999530658.9026,
+      "components": [
+        "_Users_jobayerhossain_Documents__repo_production_ready_svelteKit_src_components_Counter_svelte"
+      ]
+    }
+  },
+  "sources": {
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/playwright/index.html": {
+      "timestamp": 1684999585080.2896
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/playwright/index.js": {
+      "timestamp": 1684999585080.8967
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/src/components/Counter.svelte": {
+      "timestamp": 1684999529299.3176
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/node_modules/.pnpm/svelte@3.54.0/node_modules/svelte/motion/index.mjs": {
+      "timestamp": 1684210136816.7856
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/src/app.css": {
+      "timestamp": 1684994505313.8677
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/node_modules/.pnpm/svelte@3.54.0/node_modules/svelte/internal/index.mjs": {
+      "timestamp": 1684996996193.274
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/node_modules/.pnpm/svelte@3.54.0/node_modules/svelte/store/index.mjs": {
+      "timestamp": 1684994154526.6836
+    },
+    "/Users/jobayerhossain/Documents/@repo/production-ready-svelteKit/node_modules/.pnpm/svelte@3.54.0/node_modules/svelte/easing/index.mjs": {
+      "timestamp": 1684210136813.8972
+    }
+  }
+}
